@@ -14,12 +14,12 @@ On this page you will find the repo of each of the services offered by Recordo.
 ### Contribute
 Platform specific repos are available below.
 
-| Platform     | Repo          |
-| -------------|:-------------:|
-| Android      | In progress   |
-| iOS / iPhone | TBA           |
-| MacOS        | TBA           |
-| Windows      | TBA           |
+| Platform     | Repo                                                            |
+| -------------|:---------------------------------------------------------------:|
+| Android      | [Recordo for Android](https://github.com/terl/recordo-android)  |
+| iOS / iPhone | [Recordo for iOS](https://github.com/terl/recordo-ios)          |
+| MacOS        | [Recordo for MacOS](https://github.com/terl/recordo-macos)      |
+| Windows      | [Recordo for Windows](https://github.com/terl/recordo-windows)  |
 
 
 ### Licence
