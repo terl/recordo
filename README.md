@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="_blank" href="https://recordo.co"><img align="center" src="https://recordo.co/assets/images/logo_small.png" width="68px" height="68px"></a>
+  <a target="_blank" href="https://recordo.co"><img align="center" src="https://recordo.co/public/images/recordo_logo_2.png?e1b184a216567771db75d8c3e25db214" width="68px" height="68px"></a>
 </p>
 <p align="center">
   <a target="_blank" href="https://recordo.co/download">Download</a>  •  <a target="_blank" href="https://recordo.co">Homepage</a>
